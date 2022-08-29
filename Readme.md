@@ -12,7 +12,7 @@ I have cloned the [RODE](https://rode.com/en) website using HTML and TAILWIND CS
 ### `TAILWIND CSS`
 
 ***
-### Check the live website [here]()
+### Check the live website [here](https://rode-clone-16.netlify.app/ "RODE")
 
 ## My Learnings 
 - Learned more classes in Tailwind.
@@ -33,6 +33,7 @@ I have cloned the [RODE](https://rode.com/en) website using HTML and TAILWIND CS
 ![output](./output/out-res-01.png)
 ![output](./output/out-res-02.png)
 ![output](./output/out-res-03.png)
+![output](./output/out-res-04.png)
 
 ***
 
